@@ -1,5 +1,5 @@
 *{
-	margin:0;
+  margin:0;
 	padding: 0;
 	box-sizing: border-box;
 }
@@ -9,11 +9,11 @@
 	background-color:#3b5998
 }
 .facebook-logo img{
-    width: 203px;
-    height: 75px;
-    position: absolute;
-    top: 7px;
-    left: 79px;
+  width: 203px;
+  height: 75px;
+  position: absolute;
+  top: 7px;
+  left: 79px;
 }
 #navbar {
   margin: 0 auto;
